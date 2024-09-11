@@ -13,4 +13,4 @@ Built with :
 - CounterUp.js
 - Flickity.js
 
-👉🏻 [Demo](https://shohan-ch.github.io/landing-page-template/)
+👉🏻 [Demo](https://freelancing3256.github.io/mySite/)
